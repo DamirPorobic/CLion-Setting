@@ -1,7 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="File '.../src/common/helper/CursorHelper.cpp'" />
-    <option name="defaultScopeName" value="File '.../src/common/helper/CursorHelper.cpp'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/common/helper/CursorHelper.cpp'" />
-  </component>
-</application>
